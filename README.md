@@ -19,3 +19,8 @@ O menu foi criado na página app.component.ts e app.component.html, foi incluíd
 
 ###### Sexta imagem da aplicação
 ![Sexta-Imagem](https://github.com/agsilvamhm/Claretiano-Second/blob/master/Imagens/Sexta-Imagem.PNG)
+
+Para finalizar a aplicação adicionado um serviço, foi criado o serviço dados. No arquivo dados.service.ts foi criado um array, no arquivo input.page.ts foi incluido o serviço, no import "DadosService" no contrutor do arquivo input.page.ts é acessado o array que foi definido no dadosservice. Diante dos dados criamos um "formulário" no input.html.
+
+###### Sétima imagem da aplicação
+![Sétima-Imagem](https://github.com/agsilvamhm/Claretiano-Second/blob/master/Imagens/Setima-Imagem.PNG)
