@@ -1,0 +1,7 @@
+{
+  "name": "secondDisc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
