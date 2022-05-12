@@ -10,3 +10,12 @@ O menu foi criado na página app.component.ts e app.component.html, foi incluíd
 
 ###### Terceira imagem da aplicação
 ![Terceira-Imagem](https://github.com/agsilvamhm/Claretiano-Second/blob/master/Imagens/Terceira-Imagem.PNG)
+
+###### Quarta imagem da aplicação
+![Quarta-Imagem](https://github.com/agsilvamhm/Claretiano-Second/blob/master/Imagens/Quarta-Imagem.PNG)
+
+###### Quinta imagem da aplicação
+![Quinta-Imagem](https://github.com/agsilvamhm/Claretiano-Second/blob/master/Imagens/Quinta-Imagem.PNG)
+
+###### Sexta imagem da aplicação
+![Sexta-Imagem](https://github.com/agsilvamhm/Claretiano-Second/blob/master/Imagens/Sexta-Imagem.PNG)
